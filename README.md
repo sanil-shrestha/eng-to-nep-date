@@ -1,6 +1,6 @@
 # English Date to Nepal Date Converter
 This contains the date conversion from English date to Nepali date from 120+ years ago date and 200+ years date into future.
-This repository contains the database level conversion of date
+This repository contains the database level conversion of date. For database postgres is used, and a postgres function which takes english date and converts the date to equivalent nepali date.
 
 # eng-to-nep-date
 English Date to Nepali Date conversion Postgres sql data + function to convert the date.
